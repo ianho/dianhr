@@ -1,0 +1,10 @@
+Hi，{{name}}<br>
+你好<br><br>
+你的简历已经提交成功，<br>
+近期请注意关注邮件及短信，我们将通知后续面试等安排<br><br>
+敬礼<br><br>
+----<br>
+Dian团队人资部<br>
+联系邮箱：<br>
+hr@dian.org.cn （Dian团队人资部）<br>
+hustgxc@gmail.com （Dian团队队长龚小聪）<br>
